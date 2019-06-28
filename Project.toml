@@ -1,0 +1,7 @@
+name = "OLCAOJulia"
+uuid = "e404325a-853d-11e9-2ed3-9f70abdf8c2d"
+authors = ["NDari <naseerdari01@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+FortranFiles = "c58ffaec-ab22-586d-bfc5-781a99fd0b10"
